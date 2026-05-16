@@ -1,0 +1,9 @@
+
+“Can Hard Water Cause Eczema and Other Skin Irritation?” Kinetico Resource Center, Kinetico Water Systems, 5 Oct. 2021, resourcecenter.kinetico.com/water-home-health/hard-water-and-eczema/. Accessed 3 Feb. 2025.
+“Effects of Hard Water on Hair and Skin.” Culligan Water, 6 Dec. 2018, www.culligan.com/blog/effects-of-hard-water-on-hair-and-skin.
+Felman, Adam. “What to Know about Hard Water and Eczema.” Medicalnewstoday.com, Medical News Today, 29 Nov. 2023, www.medicalnewstoday.com/articles/hard-water-and-eczema. Accessed 3 Feb. 2025.
+“Hard Water vs. Soft Water — the Effects on Your Skin | Water-Right.” Www.water-Right.com, 5 Apr. 2021, www.water-right.com/homeowner-resources/soft-water-hard-water-effects-skin/.
+Hong, Hana. “How Bad Is Hard Water for Your Skin? We Asked the Pros.” Westlakedermatology.com, 2025, www.westlakedermatology.com/blog/how-hard-water-can-damage-the-skin/? Accessed 3 Feb. 2025.
+Jabbar‐Lopez, Zarif K., et al. “The Effect of Water Hardness on Atopic Eczema, Skin Barrier Function: A Systematic Review, Meta‐Analysis.” Clinical & Experimental Allergy, vol. 51, no. 3, 13 Dec. 2020, pp. 430–451, https://doi.org/10.1111/cea.13797.
+“The Effect of Water Hardness on Surfactant Deposition after Washing and Subsequent Skin Irritation in Atopic Dermatitis Patients and Healthy Control Subjects.” Journal of Investigative Dermatology, vol. 138, no. 1, 1 Jan. 2018, pp. 68–77, www.sciencedirect.com/science/article/pii/S0022202X1732938X, https://doi.org/10.1016/j.jid.2017.08.037.
+“The Hard Truth about Eczema: It’s Something in the Water | Website Archive | King’s College London.” Kcl.ac.uk, 2017, www.kcl.ac.uk/archive/news/kings/newsrecords/2017/09-september/the-hard-truth-about-eczema-it%27s-something-in-the-water. Accessed 3 Feb. 2025.

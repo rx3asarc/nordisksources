@@ -1,0 +1,463 @@
+
+Skip to main contentSkip to article
+Elsevier logo
+Journals & Books
+Help
+Search
+My account
+Sign in
+Download full issue
+Search ScienceDirect
+Search ScienceDirect
+Outline
+Abbreviations
+Introduction
+Results
+Discussion
+Materials and Methods
+ORCIDs
+Conflict of Interest
+Acknowledgments
+Supplementary Material
+References
+Show full outline
+Cited by (59)
+Figures (4)
+Figure1. Recruitment flowchart
+Figure2. SLS deposition on the skin after washing with different water types
+Figure3. The effect of surfactant residues on the skin: primary outcome measures
+Figure4. The effect of surfactant residues on the skin: secondary outcome measures
+Tables (2)
+Table 1
+Table 2
+Extras (1)
+Supplementary Table S1
+Elsevier
+Journal of Investigative Dermatology
+Volume 138, Issue 1, January 2018, Pages 68-77
+Journal of Investigative Dermatology
+Original Article
+Clinical Research
+The Effect of Water Hardness on Surfactant Deposition after Washing and Subsequent Skin Irritation in Atopic Dermatitis Patients and Healthy Control Subjects
+Author links open overlay panel
+Simon G. Danby 1
+,
+Kirsty Brown 1
+,
+Andrew M. Wigley 1
+,
+John Chittock 1
+,
+Phyoe K. Pyae 1
+,
+Carsten Flohr 2 4
+,
+Michael J. Cork 1 3 4
+Show more
+Add to Mendeley
+Share
+Cite
+https://doi.org/10.1016/j.jid.2017.08.037
+Get rights and content
+Under a Creative Commons license
+Open access
+Living in a hard water area is associated with an increased risk of atopic dermatitis (AD). Greater skin barrier impairment after exposure to surfactants in wash products, combined with the high calcium levels of hard water and/or high chlorine levels, is a compelling mechanism for this increase. The purpose of this study was to investigate this mechanism in individuals with and without a predisposition to skin barrier impairment. We recruited 80 participants: healthy control subjects and AD patients with and without FLG mutations. The skin of each participant was washed with sodium lauryl sulfate in water of varying hardness levels and chlorine concentrations, rinsed, and covered with chambers to determine the effects of surfactant residues. Sites washed with hard water had significantly increased sodium lauryl sulfate deposits. These deposits increased transepidermal water loss and caused irritation, particularly in AD patients carrying FLG mutations. A clear effect of chlorine was not observed. Water softening by ion-exchange mitigated the negative effects of hard water. Barrier impairment resulting from the interaction between hard water and surfactants is a contributory factor to the development of AD. Installation of a water softener in early life may be able to prevent AD development. An intervention study is required to test this hypothesis.
+Previous article in issue
+Next article in issue
+Abbreviations
+ADatopic dermatitisFITRFourier-transform infraredSLSsodium lauryl sulfateTEWLtransepidermal water losswtwild type
+Introduction
+Atopic dermatitis (AD)/eczema is a common inflammatory disease of the skin, affecting 15–30% of children and 2–10% of adults (Odhiambo et al., 2009). An important pathophysiologic event in the development of AD is impairment of the skin barrier (Cork et al., 2009). Loss-of-function mutations in the filaggrin gene (FLG) are an important cause of skin barrier impairment and represent the strongest genetic risk factor for AD (McAleer and Irvine, 2013). Nevertheless, genetics alone cannot fully explain a person’s susceptibility to AD, and it is believed that environmental factors play an important role by contributing to skin barrier impairment. Washing the skin with hard water is one such environmental factor purported to increase the risk of developing AD (Ewence et al., 2011).
+Hard water contains high levels (≥100 mg/L) of calcium and magnesium carbonates such as the minerals calcite, gypsum, and dolomite (Ewence et al., 2011). Domestic water hardness varies throughout the world depending on the geography of the land. A number of studies have now reported an increased prevalence of AD among infants and school-age children living in hard, compared with soft, water areas (Arnedo-Pena and Bellido-Blasco, 2007, Chaumont et al., 2012, Engebretsen et al., 2016, McNally et al., 1998, Miyake et al., 2004). Moreover, a predisposition to skin barrier impairment due to carriage of an FLG loss-of-function mutation additively increased the risk of developing AD for those living in a hard water area (Perkin et al., 2016). A cogent pathological process is suggested whereby the effects of washing with hard water contribute to skin barrier impairment in addition to genetic factors to determine an individual’s overall risk. What is still unclear is how hard water impairs the skin barrier, and a better understanding of the underlying mechanisms will aid the design of future intervention studies aimed at reducing the incidence of AD by eliminating water hardness.
+As part of a systematic review for the UK Drinking Water Inspectorate, we identified several possible mechanisms by which hard water may damage the skin barrier that need further investigation (Ewence et al., 2011). The most promising of these is the interaction between hard water and the surfactants (detergents) used in wash products. High calcium levels are thought to reduce the solubility of surfactants and thereby potentially increase their deposition on the skin after washing (Young and Matijevic, 1977). Common surfactants used in wash products, such as the harsh anionic surfactant sodium lauryl sulfate (SLS), are widely established skin irritants and important environmental stressors contributing to the severity of AD (Ananthapadmanabhan et al., 2004).
+We therefore conducted a case-control study to investigate the effects of water type on surfactant skin deposition after washing and subsequently assess the effects of the deposits on skin barrier function and skin irritation in individuals with healthy skin compared with AD patients with and without FLG loss-of-function mutations. In addition to the high calcium and magnesium levels, hard domestic water often also has a high chlorine level (Perkin et al., 2016). Chlorine is often added to domestic water and is a known skin irritant, which could potentially modify or contribute to the effects of water hardness on the skin (Ewence et al., 2011). We therefore controlled for both water hardness and chlorine levels. We also wanted to evaluate the potential of an ion-exchange water softener to mitigate or eliminate the effects of high calcium and magnesium levels on skin barrier function.
+Results
+We recruited and screened 304 participants (154 with healthy skin and 150 with AD) between November 2015 and July 2016 to establish their FLG gene status (based on the five most common mutations in Europeans [Sandilands et al., 2007]). An overview of recruitment is provided in Figure 1. During the predefined recruitment period, we were able to fill three of the four groups. Because of the rarity of individuals with healthy skin who carry an FLG mutation (only 7% of the eligible population), we were unable to fully fill group 2. In total, 12 participants were lost to follow-up (8 did not attend visit 1 of the patch testing, 3 cancelled their appointment for visit 1 and withdrew themselves because of time commitments, and 1 withdrew after visit 1 because of discomfort of the patches), and 3 completed healthy participants were excluded because they were later found to be atopic, which was a predefined exclusion criterion for group 1. A summary of the study groups (completed participants) is presented in Table 1. With the exception of group 2, the study groups were evenly sized and matched for sex, age, and Fitzpatrick skin type. As expected, the participants in the AD groups reported dryer skin compared with the healthy groups. A high rate of adverse reactions to wash products was reported by both AD groups (75% and 73%), and no such reactions were reported in the groups with healthy skin, irrespective of FLG gene status.
+Figure 1
+Download: Download high-res image (400KB)
+Download: Download full-size image
+Figure 1. Recruitment flowchart. AD, atopic dermatitis; wt, wild type.
+Table 1. Cohort demographics
+Characteristic Group 1 (Healthy FLGwt) Group 2 (Healthy FLGnull) Group 3 (AD FLGwt) Group 4 (AD FLGnull)
+n 26 8 24 22
+AD, n (%) 0 (0) 0 (0) 24 (100) 22 (100)
+Asthma, allergic rhinitis, or food allergy, n (%) 0 (0) 0 (0) 16 (67) 16 (73)
+FLG–/+, n (%) 0 (0) 8 (100) 0 (0) 21 (95)
+FLG–/–, n (%) 0 (0) 0 (0) 0 (0) 1 (5)
+FLG mutations, n
+2282del4 — 2 — 9
+3702delG — 0 — 0
+R2447X — 3 — 3
+R501X — 3 — 11
+S3247X — 0 — 0
+Female, n (%) 16 (62) 8 (100) 17 (71) 14 (64)
+Age, mean ± SD (range) 24 ± 7 (18–46) 29 ± 14 (20-55) 27 ± 9 (18-46) 25 ± 9 (19-56)
+Fitzpatrick skin type (1–6), mean ± SD (range) 2 ± 1 (1-3) 2 ± 1 (1-3) 2 ± 1 (1-3) 2 ± 1 (1-3)
+Self-reported general skin dryness (1–5), mean ± SD (range) 2.0 ± 0.8 (1–4) 1.5 ± 0.5 (1–2) 3.1 ± 1.0 (1–5) 3.5 ± 1.0 (2–5)
+SCORAD, mean ± SD NA NA 15.6 ± 10.9 20.4 ± 10.1
+Participant-reported reactions to wash products, n (%) 0 (0) 0 (0) 18 (75) 16 (73)
+Abbreviations: AD, atopic dermatitis; SCORAD, Scoring Atopic Dermatitis; SD, standard deviation; wt, wild type.
+The deposition of surfactants on the skin after washing
+The type of wash water significantly affected surfactant deposition after washing (Figure 2). Hard water was associated with the greatest deposition of SLS, which was 2.8 ± 0.6-fold greater than when deionized water was used for washing. The level of chlorine in the water had no effect on SLS deposition. Softening the water to remove calcium and magnesium ions significantly reduced the level of SLS deposition. Upon stratification of the cohort, no effect of AD or FLG mutations on SLS deposition was found (Figure 2d).
+Figure 2
+Download: Download high-res image (647KB)
+Download: Download full-size image
+Figure 2. SLS deposition on the skin after washing with different water types. (a) Representative spectra of the skin before and after washing. (b) The relationship between the peak intensity at 1230 cm–1 and the concentration of SLS in aqueous solution. (c) The levels of SLS, quantified in vivo by FTIR spectroscopy, deposited on the skin by test site. A significant difference between the test sites was found (Friedman test, P < 0.0001, square root transformation of SLS deposition to equalize variance). (d) SLS deposition by study population. No difference between the groups was identified. (e) Lipid chain conformation, as indicated by the position of the spectral band for CH2 symmetric stretching (∼2850 cm–1) at the skin surface after washing. A higher band position indicates a more disordered lipid chain conformation associated with surfactant damage. A significant difference between the treatments was found (Friedman test, P < 0.0001). (f) Protein denaturation indicated by the change in location of the peak associated with the amide I bond (1610–1690 cm–1). A significant difference between the treatments was found (Friedman test, P < 0.0001). ∗Significant differences identified using Dunn posttest. For simplicity, only differences within the no-chlorine and high-chlorine sets are displayed (no significant differences between chlorine/no chlorine pairs). SLS, sodium lauryl sulfate.
+Based on the Fourier-transform infrared (FTIR) spectra collected from the skin sites, washing with hard water was associated with a significant shift in the location of the CH2 symmetric stretching band (∼ 2,850 cm–1) to a higher wavenumber compared with washing with deionized water, indicative of an increase in lipid disordering/fluidity (Figure 2e). Similarly, washing with hard water was associated with a shift in the location of the amide I bond (C=O) compared with washing with deionized water, indicative of protein denaturation (Figure 2f). Both the change in lipid and protein structure correlated significantly with SLS deposition on the skin surface (Spearman r = 0.392 and 0.354, P < 0.0001 and < 0.0001 respectively).
+Skin irritation from surfactant residues
+Patch testing was performed to determine whether SLS deposits left on the skin can damage the skin barrier and induce irritation (Figure 3). Transepidermal water loss (TEWL) was significantly elevated at all test sites compared with the untreated control. This indicates reduced skin barrier function as a result of SLS deposits on the skin irrespective of the wash water used. The reduction in skin barrier function was significantly greater at sites where hard water was used for washing (10.19 ± 0.74 g/m2/h without chlorine vs. 9.45 ± 0.80 g/m2/h with chlorine) compared with deionized water (7.43 ± 0.74 g/m2/h without chlorine vs. 7.51 ± 0.92 g/m2/h with chlorine). Moreover, the increase in TEWL directly correlated with the amount of SLS deposited on the skin after washing (Figure 3c) and with the amount of residue remaining on the skin after patch removal (Spearman r = 0.4928 and 0.4108, P < 0.0001 and < 0.0001, respectively). Water softening, in line with the reduction in SLS deposits on the skin, mitigated the negative effect of hard water on skin barrier function. The level of chlorine had no significant effect on skin barrier function. Upon stratification by group, AD patients carrying the FLG gene mutation were affected by SLS deposits to a significantly greater extent compared with individuals with no FLG mutation and healthy skin (Figure 3b). After washing with SLS in hard water, TEWL increased by 7.12 ± 0.84 g/m2/h in people with healthy skin compared with an increase of 13.84 ± 1.68 g/m2/h in people with AD carrying an FLG mutation.
+Figure 3
+Download: Download high-res image (695KB)
+Download: Download full-size image
+Figure 3. The effect of surfactant residues on the skin: primary outcome measures. (a) The effect of water type on the change in TEWL. There was a significant effect of the water type on the change in TEWL (Friedman test, p < 0.05). (b) TEWL stratified by group. There was a significant difference between the groups for hard, softened + chlorine, and hard + chlorine (Kruskal-Wallis, P < 0.0001). (c) The amount of SLS left on the skin after washing was significantly associated with TEWL (Spearman r = 0.4928). (d) The effect of water type on objective skin redness. There was a significant effect of water type on skin redness (repeated measures analysis of variance, P < 0.0001). (e) Skin redness stratified by group. There was a significant effect of the group on the change in redness identified by two-way repeated measures analysis of variance (P < 0.0001). (f) The amount of SLS residing on the skin after patch removal was significantly associated with skin redness (Spearman r = 0.411). ∗Significant differences between treatments identified using Dunn or Tukey posttest, respectively. fSignificant differences identified using a protected Fisher least significant difference test. For simplicity, only differences within the no-chlorine and high-chlorine sets are displayed (no significant differences between chlorine/no chlorine pairs). αSignificant differences to the negative control. βSignificant differences to all other treatments. AU, arbitrary units; SLS, sodium lauryl sulfate; TEWL, transepidermal water loss.
+A similar picture emerged for the effects of SLS deposits on objective skin redness (Figure 3d). All test sites, except the sites washed with deionized water, showed significantly elevated redness compared with the untreated control sites. Additionally, there was a significant difference between the test sites, with the hard water and the deionized water with high chlorine test sites showing the greatest increases in redness. Redness was also significantly correlated with SLS levels; however, this was most evident for residues quantified after patch removal (Figure 3f, r = 0.411) compared with deposits quantified before patch application (r = 0.238, P < 0.0001). Again, the increase in objective redness was significantly different in each group (Figure 3e).
+The secondary outcome measures are presented in Figure 4. Visual scoring of erythema followed a similar pattern to objective skin redness, with the two parameters showing significant association (r = 0.508, P < 0.0001). However, as expected, the visual score showed reduced sensitivity to detecting differences between the water types. Stratum corneum levels of the proinflammatory cytokine IL-1α were significantly different between the test sites, with the hard water plus chlorine wash water showing the highest levels. The use of hard water without chlorine did not lead to elevated IL-1α levels compared with the deionized water control. The levels of IL-1α did not correlate with skin redness (visual or objective) and were consistently lower (not significant) in the AD FLGnull group compared with the other groups. The type of wash water also significantly affected the change in skin surface pH after patching. There was a significant association between the change in skin surface pH and SLS deposits on the skin (r = 0.3649, P < 0.0001) and a weak association with the change in TEWL and objective redness. In contrast to TEWL and objective redness, skin surface pH was most affected by the softened water containing chlorine compared with all other water types. Additionally, this exaggerated response was predominantly displayed by the AD FLGnull group. Softened water with chlorine had the highest alkalinity of all the water types tested (Table 2).
+Figure 4
+Download: Download high-res image (432KB)
+Download: Download full-size image
+Figure 4. The effect of surfactant residues on the skin: secondary outcome measures. (a) Visual scoring of erythema, (b) IL-1a, and (c) change in skin surface pH by treatment stratified by group (stacked), 24 hours after patch removal. A significant difference in the log transformed IL-1α levels between the test sites was found using a repeated measures analysis of variance (P = 0.0114). Significant differences in visual erythema and skin surface pH between the test sites was found using the Friedman test (P < 0.0001 and P < 0.0001, respectively). ∗Significant differences between treatments identified using Tukey or Dunn posttest, respectively. fSignificant differences identified using a protected Fisher least significant difference test. γA significant difference between the groups (group 1 and 4) was found for skin surface pH only (Kruskal-Wallis with Dunn posttest).
+Table 2. Composition of the test water
+Parameter Unit Deionized Water Deionized Water + Chlorine Hard Water – No Chlorine (Carbon Filtered) Hard Water + Chlorine Softened Water – No Chlorine (Carbon Filtered) Softened Water + Chlorine
+Hardness mg/L CaCO3 ND ND 394.5 ± 14.9 403.5 ± 5.8 14.0 ± 8.4 1.0 ± 2.2
+Alkalinity mmol/L HCO3– 0.19 ± 0.11 0.19 ± 0.11 6.35 ± 0.14 6.31 ± 0.07 6.33 ± 0.29 6.42 ± 0.23
+Free chlorine before adjustment ppm <0.01 <0.01 0.01 ± 0.01 0.21 ± 0.07 0.02 ± 0.03 0.14 ± 0.11
+Free chlorine after adjustment ppm 1.5 ± 0.1 1.5 ± 0.1 1.5 ± 0.1
+pH 6.3 7.4 7.4
+Conductivity μS/cm <0.1 903 947
+Nitrate mg/L <1 ≤0.2 ≤0.2
+Sulfate mg/L <0.01 101.0 102.4
+Boron mg/L <0.01 0.15 0.13
+Copper mg/L <0.01 ≤0.02 ≤0.02
+Manganese mg/L <0.01 <0.01 <0.01
+Zinc mg/L <0.01 ≤0.01 <0.01
+Iron mg/L <0.01 <0.01 <0.01
+Chloride mg/L <1 84.7 85.4
+Phosphorus mg/L <0.2 0.6 0.6
+Potassium mg/L ≤1 10.3 1.45
+Magnesium mg/L <0.05 28.3 <0.05
+Calcium mg/L <0.1 113.1 <0.1
+Sodium mg/L ≤1 64.3 249
+Abbreviations: ND, not determined.
+Discussion
+Skin exposure to SLS is enhanced by washing in hard water, compared with deionized water, because of an increased persistence of surfactant residues on the skin after rinsing. By using an ion-exchange water softener to reduce hardness to less than 25 mg/L CaCO3, SLS residues were dramatically reduced, indicating that it is the metal ion (Ca2+ and Mg2+) concentration in the water that affects deposition. No effect of chlorine level in the water or of the study population on surfactant deposition was found.
+The SLS residues left on the skin after washing altered protein secondary structure, solubilized stratum corneum lipids, and elevated skin surface pH in a dose-dependent manner.
+Moreover, the SLS residues caused skin irritation and skin barrier impairment, the extent of which was dependent on the hardness of the wash water and could be directly related to the level of SLS deposits on the skin. Patients with AD and an FLG mutation had significantly greater skin barrier damage and irritation in response to SLS residues compared with healthy individuals without FLG mutations, suggesting an increased sensitivity to SLS. The use of an ion-exchange water softener to remove calcium and magnesium ions protected against skin barrier damage and irritation by reducing SLS deposits on the skin.
+The strength of this study is the very controlled nature of the intervention, which has enabled us to focus in on a single exposure and assess the effects of varying the key properties of wash water associated with the development of AD. As a result, the effects of confounders such as age, skin type, and water composition (beyond hardness and chlorine levels) have been controlled. A limitation of our study is the small sample size of the healthy group carrying FLG mutations, which stems from the low number of these individuals in the population (<10%) (Bandier et al., 2015). The effect of this limitation is a reduction in statistical power to compare group means, so although we may have missed some potentially significant differences, we can be confident that the differences we have reported are true.
+Our findings are supported by a number of epidemiological studies that have identified a link between living in a hard water area and the prevalence of AD. Furthermore, we offer a mechanism by which water hardness contributes to AD development by increasing skin exposure to harmful surfactants. Although our study illustrates the deposition of the common synthetic surfactant SLS, a previous study reported similar increases in skin deposition of surfactants found in traditional soaps (alkyl carboxylates) when hard water is used for washing compared with ultrapure soft water (Tanaka et al., 2015). An explanation for the increased skin deposition of surfactants is their reduced solubility in solutions containing metal ions such as calcium (Young and Matijevic, 1977). For instance, greater precipitates of metallic surfactants (precipitates comprising calcium salts of anionic surfactants) form on clothing fabrics when washed with SLS in hard versus soft water (Gotoh et al., 2016). Moreover, as a result of this precipitation, wash products produce less foam in hard water compared with soft water, necessitating the use of more wash product to produce the same amount of foam. In this regard, our results are likely to underestimate the real impact of hard water on surfactant deposits in everyday washing habits because of the controlled use of SLS in this study.
+Harsh surfactants are known to have a broad range of effects that contribute to both their cleansing efficacy and potential to cause skin irritation/barrier damage (Ananthapadmanabhan et al., 2004). The direct negative effects of SLS residues we report here on the stratum corneum are consistent with the effects of SLS reported in the literature (Saad et al., 2012). The low-level residues of SLS left on the skin were sufficient to elicit mild irritation and skin barrier damage, consistent with the effects of higher concentrations reported previously. Topical products causing this level of skin barrier damage are associated with a high rate of adverse skin reactions (Danby et al., 2011). In infants at 2 months of age, an increase in TEWL of just 1.4 g/m2/h above the mean is a predictive biomarker for AD (Kelleher et al., 2015). This suggests that washing in hard water, through an interaction with surfactants in wash products, could damage the skin barrier sufficiently to increase the risk of developing AD in this age group.
+The skin barrier damage and irritation caused as a result of washing in hard water was significantly different between the study populations. In line with previous studies, patients with AD displayed the greatest response to SLS (Bandier et al., 2015, Darlenski et al., 2013, Jungersted et al., 2010). Although AD patients exhibit a skin barrier defect irrespective of their FLG gene status, the extent of the defect is significantly greater in those carrying an FLG mutation, leaving them more susceptible to the effects of irritants, as established in this study for SLS (Scharschmidt et al., 2009, Winge et al., 2011). This increase in sensitivity to SLS helps explain the additive effect of FLG mutations on the association between living in a hard water area and the risk of developing AD reported by Perkin et al. (2016). Intriguingly, and in agreement with a previous study, we found no significant difference in effect of SLS and hard water between the healthy groups with and without an FLG mutation (Bandier et al., 2015). This suggests that, although an important contributory factor, loss of functional filaggrin alone is not sufficient to increase a person’s sensitivity to SLS.
+Carrying an FLG mutation has been associated with altered stratum corneum cytokine levels that may orchestrate the increased skin response to SLS (Kezic et al., 2012). We did not observe a significant association between IL-1α levels at the skin surface and FLG status, but we did observe a trend for reduced levels in AD patients with FLG mutations compared with all other groups. We did not quantify baseline levels and therefore cannot directly relate these findings with the basal levels found in other study populations. Although contrary to the increase in inflammation, decreased IL-1α levels in response to prolonged or repeated SLS exposures have been reported previously (Angelova-Fischer et al., 2012). IL-1α plays an important role in skin barrier repair (Man et al., 1999), and this finding may suggest an impeded repair response in AD patients carrying an FLG mutation. AD patients carrying an FLG mutation also displayed an increased propensity for changes to skin surface pH. Skin surface pH is an important regulator of skin barrier homeostasis (Hachem et al., 2003). Moreover, increasing evidence supports a prominent role of skin pH in the pathogenesis of AD as a driver for increased KLK5 protease activity, with subsequent activation of the PAR2 receptor, increased expression and release of the pro-allergic cytokine TSLP, and consequent development of dermatitis (Jang et al., 2016). Mice with a filaggrin defect exhibit heightened activity of this pathway (Moniaga et al., 2013). Nevertheless differences in basal skin surface pH have been inconsistently reported when comparing AD patients with and without FLG mutations (Bandier et al., 2015, Jungersted et al., 2010). The increased susceptibility of the FLGnull AD patients to pH changes reported here is consistent with the lower levels of skin-acidifying agents, such as urocanic acid and pyrrolidone carboxylic acid, in this population type reported elsewhere (Kezic et al., 2008). Based on the observation that metallic surfactants can induce TSLP expression when applied to the skin of mice, activation of the pH-protease-PAR2 pathway by surfactants, combined with hard water in the context of an FLG gene defect, is a plausible mechanism for promoting AD development (Tanaka et al., 2015). Our findings add to an increasing body of evidence suggesting that FLG mutation carriers represent an important subgroup of AD patients with increased skin sensitivity.
+We report that use of an ion-exchange water softener to reduce calcium and magnesium levels mitigated the adverse effects of metallic surfactants formed during washing with hard water and the synthetic detergent SLS. Although ion-exchange water softeners do not completely remove calcium and magnesium ions, our findings suggests that the residual levels remaining (<0.1 mg/L calcium and <0.05 magnesium) have a negligible effect on the skin. Water alkalinity (the pH buffering capacity of water) is a property closely related to hardness, and so it has been implicated as a factor in the association between hard water and AD risk (Ewence et al., 2011). Although the water softening process did not appear to affect alkalinity of the water, the softened water supplemented with additional chlorine did display a higher alkalinity. It was the use of this water, with the highest alkalinity, that led to the most dramatic change in skin surface pH after washing. The observed increase in pH was also associated with decreased skin barrier function. This suggests that although calcium levels appear to be the key driver for the skin barrier impairment observed, water alkalinity also needs to be controlled to prevent the negative consequences of elevated skin surface pH (Hachem et al., 2003). Although washing with acidic water appears to be beneficial for maintaining skin homeostasis (Hachem et al., 2010), it is necessary to maintain domestically supplied water at neutral-alkaline pH to control plumbosolvency (Ewence et al., 2011). The focus therefore needs to be on reducing water alkalinity and/or strategies for acidifying wash water during washing (e.g., with appropriately designed wash products).
+Chlorine levels are another parameter of water previously associated with skin effects (Ewence et al., 2011). Although considered a skin irritant, the level of chlorine tested in this study is at the top end of the levels found in domestic water supplies, which is well within the safe limits permitted in swimming pools to avoid adverse skin effects. Neither the level of deposition nor the skin response to SLS appeared to be consistently affected by chlorine under the conditions tested. However, chlorine in deionized water, but not hard or softened water, did appear to increase the level of skin irritation observed in this study. This suggests a specific irritant effect of free chlorine in ultrapure water independent of surfactants. It is worth noting that swimming pool attendance is inconsistently associated with the development of AD in the literature and, like the association between chlorine in domestic water and AD, is confounded by whether study participants live in a hard water area (Chaumont et al., 2012, Font-Ribera et al., 2014).
+Four studies of varying quality have assessed the effect of water softeners on the severity of established AD in humans and dogs with varying success (Ohmori et al., 2010, Tanaka et al., 2015, Thomas et al., 2011, Togawa et al., 2014). Of these, the only statistically powered randomized controlled trial found no benefit of installing an ion-exchange water softener on established moderate to severe AD (Thomas et al., 2011). In established AD, inflammation is a key driver of skin barrier impairment and may overshadow the effects of negative environmental factors like water hardness (Kim et al., 2008). Furthermore, current guidance on the management of AD recommends the avoidance of soap and detergents (replacing them with emollient wash products), meaning that AD patients are already likely to take steps that avoid exposure to metallic surfactants (Lewis-Jones and Mugglestone, 2007). The results of this work, and those of more recent birth-cohort studies, suggest that rather than affecting the severity of established AD, hard water is likely to play a greater role in the primary development of AD in the first few months of life (Engebretsen et al., 2016, Perkin et al., 2016).
+In conclusion, washing the skin with hard water increases exposure to potentially irritant metallic surfactants that can impair functioning of the skin barrier, especially in people with a predisposition to a skin barrier defect. By additively impairing skin barrier function, washing with hard water is likely to contribute to the early development of AD. Ion-exchange water softeners could help reduce the risk of developing AD by reducing the deposition of metallic surfactants on the skin during washing.
+Materials and Methods
+Study site and randomization
+This case-control observational study was conducted at the Royal Hallamshire Hospital in Sheffield (UK). A sample size of 80 split evenly between four defined populations was set: group 1 included 20 participants with healthy skin (no current or past AD), no atopy, and wild-type (wt) FLGwt/wt; group 2 included 20 participants, FLGnull/null or FLGwt/null without current or past AD; group 3 included 20 participants with AD and FLGwt/wt; and Group 4 included 20 participants with AD and FLGnull/null or FLGwt/null. The study is powered at 80% (P = 0.05) to detect a difference in TEWL of 2.0 g/m2/h and in skin redness of 30 Mexameter MX18 (CK Electronic, Cologne, Germany) units, based on an unpublished pilot study and existing literature (Danby et al., 2011). To achieve the target samples, we set out to screen 500 volunteers over a 9-month period. Inclusion and exclusion criteria are presented in Supplementary Table S1 online. After group allocation, participants were enrolled onto the skin washing/patch testing procedure on a first come/first served basis. Written informed consent was obtained from all participants. The National Health Service Trent Research Ethics Committee approved the study, including the consent procedure used (#04/MREC/70).
+Preparation and testing of the study water
+There were two sources of water: deionized water and hard water obtained from a domestic supply in Essex, UK, where the water hardness is high, on five separate occasions during the 9-month study period. Table 1 provides the summary data for the five batches. NRM Laboratories (Bracknell, UK) undertook the analysis of the deionized, hard, and softened water samples. Water hardness and alkalinity were determined by titration for each of the six samples separately (MColortest, Merck Millipore, Darmstadt, Germany). The softened water was prepared by running the hard water through an ion-exchange water softener (Harvey’s Drinking Water Filter by Harvey Water Softeners, Surrey, UK and installed at the source), which brought calcium carbonate (total hardness), calcium, and magnesium levels down from 403.5, 113.1, and 28.3 mg/L to 1.0, <0.1, and <0.05 mg/L, respectively (calcium carbonate >300 mg/L = very hard, <50 mg/L = soft). The water samples without chlorine were prepared by filtering the hard or softened water through a carbon filter (Q5586, Omnipure, Caldwell, ID) at the time of collection. The chlorinated water samples were prepared by supplementing each water type with chlorine to a concentration of 1.5 ppm, immediately before use each study day, to provide a consistent level at the upper end of the spectrum found in domestic water supplies. The final chlorine level of all water samples was determined on the day of use using the Palintest Chlorimeter (Pailintest, Gateshead, UK) according to the manufacturer’s instructions. All water samples were stored at 4°C.
+Skin washing
+At the start of each study day, the six different test water samples (Table 2) and respective 10% SLS (Sigma Aldrich Co., St Louis, MO) wash solutions were prepared by an independent technician not involved in the data collection and were labeled with only a letter code to facilitate blinding. For each participant, eight test sites (5 × 4 cm) were clearly marked on the volar side of the forearms (four on each forearm). Two sites were reserved as controls: a no treatment negative control and a positive control for subsequent patch testing. Baseline measurements were taken at all sites, and then each of the six test sites underwent washing using one of the six test water types. Allocation of the test water to the test areas was randomized using a randomization list generated online (http://www.randomization.com) and conducted double-blind to avoid site-dependent effects and bias. The procedure for washing was as follows: (i) Pre-wet the test sites with the appropriate water type pre-warmed to 35°C using a wash bottle for 5 seconds. (ii) Place a 12-mm–diameter wash chamber over the test site (separate chambers for each treatment condition). (iii) Apply 0.5 ml of the appropriate wash solution, pre-warmed to 35°C, to the test site using a pipette and massage the wash solution into the skin for 5 seconds with a sterile swab using circular motions. (iv) Leave the wash solution on the skin for 30 seconds. (v) Rinse the test site with the appropriate water type pre-warmed to 35°C using a wash bottle for 5 seconds; (vi) Gently blot the skin dry with a paper towel (no rubbing). (vii) Wait 2 minutes for the skin to dry completely. The aim was to replicate normal skin washing in a controlled manner using a defined concentration of surfactant.
+Patch testing
+After washing, the test sites were covered with 12-mm Finn chambers on Scanpor tape (Smart Practice, Phoenix, AZ). One of the untreated sites was also covered with an empty chamber as a negative control. The final site was covered with a chamber containing 50 μl 0.5% SLS prepared in deionized water on a filter disc insert (Whatman, Maidstone, UK) as a positive control. The chambers were then covered with PatchProtect (Smart Practice) water resistant adhesive dressings and left in place for 48 hours before being carefully removed by the study team. Visual grading of erythema was independently performed by two graders, both before patch application and again 24 hours after patch removal using a 4-point scale (range = 0–3, where 0 is no erythema and 3 is strong/marked erythema). The visual scores from each grader were averaged before analysis.
+Biophysical measurements
+TEWL measurements were performed using an AquaFlux AF200 condensing chamber probe (Biox Systems, London, UK). Objective redness and skin surface pH were measured using a Mexameter MX18 and Skin pH Meter PH905, respectively (CK Electronic). All assessments were performed in a room maintained at 21 ± 2°C and 38–50% relative humidity according to published guidelines (Pinnagoda et al., 1990). All test sites were acclimatized to room conditions for 20 minutes before assessment.
+FTIR spectroscopy
+FTIR spectra were collected using a silver halide-tipped fiber optic probe (FTIR Flexispec PIR 900, Art Photonics, Berlin, Germany) attached to a Nicolet iS50 FTIR spectrometer (Thermo Fisher Scientific, Waltham, MA) equipped with a cooled mercury-cadmium-telluride detector and purged with dry N2. An average of 32 scans were collected for each measurement at a resolution of four wavenumbers. Integration of peak intensities and locations was performed using Omnic 9.0 software (Thermo Electron, Madison, WI). Peak intensities for the spectral region centered at approximately 1230 cm–1 and, corresponding to sulfate groups (SLS), were normalized relative to amide II (1520–1560 cm–1) to account for changes in contact pressure. To prepare a standard curve for SLS concentration, a dilution series of SLS in deionized water was prepared. The locations of the spectral peaks corresponding to lipids (methyl groups, CH2) and protein (amide I group, C=O), sensitive to changes in lipid and protein structure, respectively, were analyzed in accordance with previously published works (Boncheva et al., 2008, Saad et al., 2012).
+Measurement of IL-1α
+Samples of soluble stratum corneum proteins were collected 24 hours after patch removal by rubbing a sterile swab dipped in phosphate buffered saline across each test site. Samples were stored at –20°C before analysis by ELISA according to the manufacturer’s instructions (BioLegend, San Diego, CA). Protein concentrations were determined using the bicinchoninic assay according to the manufacturer’s instructions (Pierce Biotechnology, Rockford, IL), and the levels of IL-1α were expressed as pg/μg total protein.
+FLG genotyping
+Genomic DNA was extracted from Buccal swabs using the QIAamp DNA mini kit (Qiagen, Hilden, Germany). The Mentype multiplex PCR amplification kit was used to screen individuals for FLG gene status in accordance with the manufacturer’s instructions (Biotype Diagnostic, Dresden, Germany), and 2 ng of genomic DNA was used per reaction. PCR products were run on a 3730 DNA analyzer, and genotypes were scored using GeneMapper software (Applied Biosystems, California, USA).
+Statistical analysis
+The results were analyzed in Prism, version 7 (Graphpad Software, La Jolla, CA). The significance threshold was P < 0.05. Results are presented as mean ± standard error of the mean. All data were tested for normality visually and using the Shapiro-Wilk test and for equality of variance using the Levene test in SPSS Statistics, version 22 (IBM United Kingdom, Portsmouth, UK) before statistical analysis, and the results were used to inform the need for a nonparametric test. Where variances were unequal, transformation was applied to normalize the variance before conducting analyses. Comparisons by treatment were made using a repeated measures one-way analysis of variance with a Tukey posttest or a Friedman test with Dunns posttest for nonparametric data. Comparisons by group were made using a two-way analysis of variance with Tukey posttest or Kruskal-Wallis test with Dunns posttest for nonparametric data. Associations were assessed by correlations (Pearson or Spearman, depending on normality).
+ORCIDs
+Simon G Danby: http://orcid.org/0000-0001-7363-140X
+John Chittock: http://orcid.org/0000-0002-1595-7441
+Michael J Cork: http://orcid.org/0000-0003-4428-2428
+Conflict of Interest
+Harvey Water Softeners, who manufacture the ion-exchange water softener under investigation, provided the funding for this investigator-led study. The authors have no other conflict of interest to report.
+Acknowledgments
+We thank Harvey Bowden, Tony Frost, and Mike Ledger for their helpful advice and thoughtful discussion on the composition and possible effects of water and the process of softening it and Harvey Water Softeners for providing the test water and funding that made this study possible. We are grateful to all our volunteers who gave up their time to take part in the study. Thanks also go to Les Hunter for the recruitment of volunteers, Jon Kilby for his technical assistance with the FLG genotyping, and William Sargeant for delivering the water. We are also grateful to Eric Aichinger and Biotype Diagnostic GmbH for their technical support and permitting us to test out their new multiplex genotyping kit.
+Supplementary Material
+Download: Download Acrobat PDF file (20KB)
+Supplementary Table S1.
+References
+Ananthapadmanabhan et al., 2004
+K.P. Ananthapadmanabhan, D.J. Moore, K. Subramanyan, M. Misra, F. Meyer
+Cleansing without compromise: the impact of cleansers on the skin barrier and the technology of mild cleansing
+Dermatol Ther, 17 (Suppl. 1) (2004), pp. 16-25
+View in ScopusGoogle Scholar
+Angelova-Fischer et al., 2012
+I. Angelova-Fischer, V. Becker, T.W. Fischer, D. Zillikens, W. Wigger-Alberti, S. Kezic
+Tandem repeated irritation in aged skin induces distinct barrier perturbation and cytokine profile in vivo
+Br J Dermatol, 167 (2012), pp. 787-793
+CrossrefView in ScopusGoogle Scholar
+Arnedo-Pena and Bellido-Blasco, 2007
+A. Arnedo-Pena, J. Bellido-Blasco
+Dureza del agua de consumo doméstico y prevalencia de eczema atópico en escolares de Castellón, España
+Salud Publica Mex, 49 (2007), pp. 295-301
+CrossrefView in ScopusGoogle Scholar
+Bandier et al., 2015
+J. Bandier, B.C. Carlsen, M.A. Rasmussen, L.J. Petersen, J.D. Johansen
+Skin reaction and regeneration after single sodium lauryl sulfate exposure stratified by filaggrin genotype and atopic dermatitis phenotype
+Br J Dermatol, 172 (2015), pp. 1519-1529
+CrossrefView in ScopusGoogle Scholar
+Boncheva et al., 2008
+M. Boncheva, F. Damien, V. Normand
+Molecular organization of the lipid matrix in intact Stratum corneum using ATR-FTIR spectroscopy
+Biochim Biophys Acta, 1778 (2008), pp. 1344-1355
+View PDF
+View articleView in ScopusGoogle Scholar
+Chaumont et al., 2012
+A. Chaumont, C. Voisin, A. Sardella, A. Bernard
+Interactions between domestic water hardness, infant swimming and atopy in the development of childhood eczema
+Environ Res, 116 (2012), pp. 52-57
+View PDF
+View articleView in ScopusGoogle Scholar
+Cork et al., 2009
+M.J. Cork, S.G. Danby, Y. Vasilopoulos, J. Hadgraft, M.E. Lane, M. Moustafa, et al.
+Epidermal barrier dysfunction in atopic dermatitis
+J Invest Dermatol, 129 (2009), pp. 1892-1908
+View PDF
+View articleCrossrefView in ScopusGoogle Scholar
+Danby et al., 2011
+S. Danby, T. Al Enezi, A. Sultan, J. Chittock, K. Kennedy, M.J. Cork
+The effect of Aqueous cream BP on the skin barrier in volunteers with a previous history of atopic dermatitis
+Br J Dermatol, 165 (2011), pp. 329-334
+CrossrefView in ScopusGoogle Scholar
+Darlenski et al., 2013
+R. Darlenski, J. Kazandjieva, N. Tsankov, J.W. Fluhr
+Acute irritant threshold correlates with barrier function, skin hydration and contact hypersensitivity in atopic dermatitis and rosacea
+Exp Dermatol, 22 (2013), pp. 752-753
+CrossrefView in ScopusGoogle Scholar
+Engebretsen et al., 2016
+K.A. Engebretsen, P. Bager, J. Wohlfahrt, L. Skov, C. Zachariae, A.M. Nybo Andersen, et al.
+Prevalence of atopic dermatitis in infants by domestic water hardness and season of birth: Cohort study
+J Allergy Clin Immunol, 139 (2016), pp. 1568-1574
+Google Scholar
+Ewence et al., 2011
+A. Ewence, P. Rumsby, S. Danby, M.J. Cork, H. Williams
+A review of skin irritation and tap water
+WRc, Swindon, UK (2011)
+Google Scholar
+Font-Ribera et al., 2014
+L. Font-Ribera, C.M. Villanueva, E. Gracia-Lavedan, A. Borras-Santos, M. Kogevinas, J.P. Zock
+Indoor swimming pool attendance and respiratory and dermal health in schoolchildren–HITEA Catalonia
+Resp Med, 108 (2014), pp. 1056-1059
+View PDF
+View articleView in ScopusGoogle Scholar
+Gotoh et al., 2016
+K. Gotoh, K. Horibe, Y. Mei, T. Tsujisaka
+Effects of water hardness on textile detergency performance in aqueous cleaning systems
+J Oleo Sci, 65 (2016), pp. 123-133
+CrossrefView in ScopusGoogle Scholar
+Hachem et al., 2003
+J.P. Hachem, D. Crumrine, J. Fluhr, B.E. Brown, K.R. Feingold, P.M. Elias
+pH directly regulates epidermal permeability barrier homeostasis, and stratum corneum integrity/cohesion
+J Invest Dermatol, 121 (2003), pp. 345-353
+View PDF
+View articleView in ScopusGoogle Scholar
+Hachem et al., 2010
+J.P. Hachem, T. Roelandt, N. Schurer, X. Pu, J. Fluhr, C. Giddelo, et al.
+Acute acidification of stratum corneum membrane domains using polyhydroxyl acids improves lipid processing and inhibits degradation of corneodesmosomes
+J Invest Dermatol, 130 (2010), pp. 500-510
+View PDF
+View articleCrossrefView in ScopusGoogle Scholar
+Jang et al., 2016
+H. Jang, A. Matsuda, K. Jung, K. Karasawa, K. Matsuda, K. Oida, et al.
+Skin pH is the master switch of kallikrein 5-mediated skin barrier destruction in a murine atopic dermatitis model
+J Invest Dermatol, 136 (2016), pp. 127-135
+View PDF
+View articleView in ScopusGoogle Scholar
+Jungersted et al., 2010
+J.M. Jungersted, H. Scheer, M. Mempel, H. Baurecht, L. Cifuentes, J.K. Hogh, et al.
+Stratum corneum lipids, skin barrier function and filaggrin mutations in patients with atopic eczema
+Allergy, 65 (2010), pp. 911-918
+CrossrefView in ScopusGoogle Scholar
+Kelleher et al., 2015
+M. Kelleher, A. Dunn-Galvin, J.O.B. Hourihane, D. Murray, L.E. Campbell, W.H. Irwin McLean, et al.
+Skin barrier dysfunction measured by transepidermal water loss at 2 days and 2 months predates and predicts atopic dermatitis at 1 year
+J Allergy Clin Immunol (2015), pp. 1-7
+CrossrefGoogle Scholar
+Kezic et al., 2008
+S. Kezic, P.M. Kemperman, E.S. Koster, C.M. de Jongh, H.B. Thio, L.E. Campbell, et al.
+Loss-of-function mutations in the filaggrin gene lead to reduced level of natural moisturizing factor in the stratum corneum
+J Invest Dermatol, 128 (2008), pp. 2117-2119
+View PDF
+View articleCrossrefView in ScopusGoogle Scholar
+Kezic et al., 2012
+S. Kezic, G.M. O'Regan, R. Lutter, I. Jakasa, E.S. Koster, S. Saunders, et al.
+Filaggrin loss-of-function mutations are associated with enhanced expression of IL-1 cytokines in the stratum corneum of patients with atopic dermatitis and in a murine model of filaggrin deficiency
+J Allergy Clin Immunol, 129 (2012), pp. 1031-1039
+View in ScopusGoogle Scholar
+Kim et al., 2008
+B.E. Kim, D.Y. Leung, M. Boguniewicz, M.D. Howell
+Loricrin and involucrin expression is down-regulated by Th2 cytokines through STAT-6
+Clin Immunol, 126 (2008), pp. 332-337
+View PDF
+View articleView in ScopusGoogle Scholar
+Lewis-Jones and Mugglestone, 2007
+S. Lewis-Jones, Ma Mugglestone
+Management of atopic eczema in children aged up to 12 years: summary of NICE guidance
+BMJ, 335 (2007), pp. 1263-1264
+View in ScopusGoogle Scholar
+Man et al., 1999
+M.Q. Man, L. Wood, P.M. Elias, K.R. Feingold
+Cutaneous barrier repair and pathophysiology following barrier disruption in IL-1 and TNF type I receptor deficient mice
+Exp Dermatol, 8 (1999), pp. 261-266
+CrossrefView in ScopusGoogle Scholar
+McAleer and Irvine, 2013
+M.A. McAleer, A.D. Irvine
+The multifunctional role of filaggrin in allergic skin disease
+J Allergy Clin Immunol, 131 (2013), pp. 280-291
+View PDF
+View articleView in ScopusGoogle Scholar
+McNally et al., 1998
+N.J. McNally, H.C. Williams, D.R. Phillips, M. Smallman-Raynor, S. Lewis, A. Venn, et al.
+Atopic eczema and domestic water hardness
+Lancet, 352 (9127) (1998), pp. 527-531
+View PDF
+View articleView in ScopusGoogle Scholar
+Miyake et al., 2004
+Y. Miyake, T. Yokoyama, A. Yura, M. Iki, T. Shimizu
+Ecological association of water hardness with prevalence of childhood atopic dermatitis in a Japanese urban area
+Environ Res, 94 (2004), pp. 33-37
+View PDF
+View articleView in ScopusGoogle Scholar
+Moniaga et al., 2013
+C.S. Moniaga, S.K. Jeong, G. Egawa, S. Nakajima, M. Hara-Chikuma, J.E. Jeon, et al.
+Protease activity enhances production of thymic stromal lymphopoietin and basophil accumulation in flaky tail mice
+Am J Pathol, 182 (2013), pp. 841-851
+View PDF
+View articleView in ScopusGoogle Scholar
+Odhiambo et al., 2009
+J.A. Odhiambo, H.C. Williams, T.O. Clayton, C.F. Robertson, M.I. Asher, Isaac Phase Three Study Group
+Global variations in prevalence of eczema symptoms in children from ISAAC phase three
+J Allergy Clin Immunol, 124 (2009), pp. 1251-1258
+View in ScopusGoogle Scholar
+Ohmori et al., 2010
+K. Ohmori, A. Tanaka, Y. Makita, M. Takai, Y. Yoshinari, H. Matsuda
+Pilot evaluation of the efficacy of shampoo treatment with ultrapure soft water for canine pruritus
+Vet Dermatol, 21 (2010), pp. 477-483
+CrossrefView in ScopusGoogle Scholar
+Perkin et al., 2016
+M.R. Perkin, J. Craven, K. Logan, D. Strachan, T. Marrs, S. Radulovic, et al.
+Association between domestic water hardness, chlorine, and atopic dermatitis risk in early life: a population-based cross-sectional study
+J Allergy Clin Immunol, 138 (2016), pp. 509-516
+View PDF
+View articleView in ScopusGoogle Scholar
+Pinnagoda et al., 1990
+J. Pinnagoda, R.A. Tupker, T. Agner, J. Serup
+Guidelines for transepidermal water loss (TEWL) measurement. A report from the Standardization Group of the European Society of Contact Dermatitis
+Contact Dermatitis, 22 (1990), pp. 164-178
+CrossrefView in ScopusGoogle Scholar
+Saad et al., 2012
+P. Saad, C.R. Flach, R.M. Walters, R. Mendelsohn
+Infrared spectroscopic studies of sodium dodecyl sulphate permeation and interaction with stratum corneum lipids in skin
+Int J Cosmet Sci, 34 (2012), pp. 36-43
+CrossrefView in ScopusGoogle Scholar
+Sandilands et al., 2007
+A. Sandilands, A. Terron-Kwiatkowski, P.R. Hull, G.M. O'Regan, T.H. Clayton, R.M. Watson, et al.
+Comprehensive analysis of the gene encoding filaggrin uncovers prevalent and rare mutations in ichthyosis vulgaris and atopic eczema
+Nat Genet, 39 (2007), pp. 650-654
+CrossrefView in ScopusGoogle Scholar
+Scharschmidt et al., 2009
+T.C. Scharschmidt, M.Q. Man, Y. Hatano, D. Crumrine, R. Gunathilake, J.P. Sundberg, et al.
+Filaggrin deficiency confers a paracellular barrier abnormality that reduces inflammatory thresholds to irritants and haptens
+J Allergy Clin Immunol, 124 (2009), pp. 496-506
+View in ScopusGoogle Scholar
+Tanaka et al., 2015
+A. Tanaka, A. Matsuda, K. Jung, H. Jang, G. Ahn, S. Ishizaka, et al.
+Ultra-pure soft water ameliorates atopic skin disease by preventing metallic soap deposition in NC/Tnd mice and reduces skin dryness in humans
+Acta Derm Venereol, 95 (2015), pp. 787-791
+View in ScopusGoogle Scholar
+Thomas et al., 2011
+K.S. Thomas, T. Dean, C. O'Leary, T.H. Sach, K. Koller, A. Frost, et al.
+A randomised controlled trial of ion-exchange water softeners for the treatment of eczema in children
+PLoS Med, 8 (2011), p. e1000395
+CrossrefView in ScopusGoogle Scholar
+Togawa et al., 2014
+Y. Togawa, N. Kambe, N. Shimojo, T. Nakano, Y. Sato, H. Mochizuki, et al.
+Ultra-pure soft water improves skin barrier function in children with atopic dermatitis: a randomized, double-blind, placebo-controlled, crossover pilot study
+J Dermatol Sci, 76 (2014), pp. 269-271
+View PDF
+View articleView in ScopusGoogle Scholar
+Winge et al., 2011
+M.C. Winge, T. Hoppe, B. Berne, A. Vahlquist, M. Nordenskjold, M. Bradley, et al.
+Filaggrin genotype determines functional and molecular alterations in skin of patients with atopic dermatitis and ichthyosis vulgaris
+PLoS One, 6 (12) (2011), p. e28254
+CrossrefView in ScopusGoogle Scholar
+Young and Matijevic, 1977
+S.L. Young, E. Matijevic
+Precipitation phenomena of heavy metal soaps in aqueous solutions. III. Metal laurates
+J Colloid Interface Sci, 61 (1977), pp. 287-301
+View PDF
+View articleView in ScopusGoogle Scholar
+Cited by (59)
+The role of filaggrin in atopic dermatitis and allergic disease
+2020, Annals of Allergy, Asthma and Immunology
+Show abstract
+The Role of the Environment and Exposome in Atopic Dermatitis
+2021, Current Treatment Options in Allergy
+Show abstract
+The Role of Environmental Exposures in Atopic Dermatitis
+2020, Current Allergy and Asthma Reports
+The exposome in atopic dermatitis
+2020, Allergy: European Journal of Allergy and Clinical Immunology
+Atopic dermatitis
+2018, Nature Reviews Disease Primers
+PH in Atopic Dermatitis
+2018, Current Problems in Dermatology (Switzerland)
+View all citing articles on Scopus
+4
+These authors contributed equally to this work.
+© 2017 The Authors. Published by Elsevier, Inc. on behalf of the Society for Investigative Dermatology.
+Substances (2)
+Generated by ​, an expert-curated chemistry database.
+chemical structure for chlorine
+chemical structure for sodium dodecyl-sulfate
+Recommended articles
+Alterations of the human skin microbiome after ocean water exposure
+Marine Pollution Bulletin, Volume 145, 2019, pp. 595-603
+Marisa Chattman Nielsen, Sunny C. Jiang
+Cells to Surgery Quiz: January 2018
+Journal of Investigative Dermatology, Volume 138, Issue 1, 2018, p. e11
+Parteek Singla, …, Eva A. Hurst
+View PDF
+Influence of salinity and hardness on the micellization of an extended surfactant studied by turbidimetry
+Journal of Petroleum Science and Engineering, Volume 182, 2019, Article 106300
+Christian A. Paternina, …, Samuel Muñoz
+View PDF
+Show 3 more articles
+Article Metrics
+Citations
+Citation Indexes
+59
+Policy Citations
+2
+Captures
+Mendeley Readers
+142
+Mentions
+Blog Mentions
+1
+News Mentions
+9
+Social Media
+Shares, Likes & Comments
+18
+PlumX Metrics Logo
+View details
+Elsevier logo with wordmark
+About ScienceDirect
+Remote access
+Shopping cart
+Advertise
+Contact and support
+Terms and conditions
+Privacy policy
+Cookies are used by this site. Cookie Settings
+All content on this site: Copyright © 2025 or its licensors and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+RELX group home page
+15:39
+Feedback
